@@ -35,4 +35,8 @@ thank you 🙏
 # `Screenshot`
 
 ![img](https://raw.githubusercontent.com/hackesofice/Z/refs/heads/main/CPYTHON-TOOL/Screenshot.jpg)
-&copy 2025 hackesofice all rights reserved
+
+
+
+
+<p>&copy 2025 hackesofice all rights reserved</p>
