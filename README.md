@@ -29,3 +29,6 @@ keep in mind that everything is possible in this cyber world, so the Decompilati
 thank you 🙏 
 
 
+
+
+&copy 2025 hackesofice all rights reserved
