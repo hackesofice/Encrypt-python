@@ -1,4 +1,4 @@
-# Encrypt-python
+#`Encrypt-python`
 Cpython | encryption for python script | Hard to Decompile | Make python code unreadable 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&width=435&lines=DON'T+FORGET+TO+STAR+THE+REPOSITORY+;THIS+TOOL+IS+BASICALLY+DESIGNED+;FOR+MAKING+CODE+UNREADABLE)](https://git.io/typing-svg)
 
