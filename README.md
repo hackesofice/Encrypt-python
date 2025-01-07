@@ -2,6 +2,9 @@
 Cpython | encryption for python script | Hard to Decompile | Make python code unreadable 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&width=435&lines=DON'T+FORGET+TO+STAR+THE+REPOSITORY+;THIS+TOOL+IS+BASICALLY+DESIGNED+;FOR+MAKING+CODE+UNREADABLE)](https://git.io/typing-svg)
 
+ <a href='http://www.freevisitorcounters.com'>more on freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ec51e26851a77b4015d26e47148194787e78390f'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1284875/t/5"></script>
+
 ```
 pkg install python
 pkg install git
