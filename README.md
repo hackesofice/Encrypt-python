@@ -2,7 +2,10 @@
 Cpython | encryption for python script | Hard to Decompile | Make python code unreadable 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&width=435&lines=DON'T+FORGET+TO+STAR+THE+REPOSITORY+;THIS+TOOL+IS+BASICALLY+DESIGNED+;FOR+MAKING+CODE+UNREADABLE)](https://git.io/typing-svg)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+[![Hits](https://hits.sh/github.com/hackesofice/SavingFromFormData.git.svg?style=plastic)](https://hits.sh/github.com/hackesofice/SavingFromFormData.git/)
+
+
 ```
 pkg install python
 pkg install git
