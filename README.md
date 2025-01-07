@@ -6,6 +6,8 @@ Cpython | encryption for python script | Hard to Decompile | Make python code un
 [![Hits](https://hits.sh/github.com/hackesofice/SavingFromFormData.git.svg?style=plastic)](https://hits.sh/github.com/hackesofice/SavingFromFormData.git/)
 
 
+
+`FOR ANDROID (TERMUX)`
 ```
 pkg install python
 pkg install git
