@@ -11,7 +11,7 @@ Cpython | encryption for python script | Hard to Decompile | Make python code un
 ```
 pkg install python
 pkg install git
-pip install cython
+pip install --upgrade cython
 pip install requests
 gem install lolcat
 git clone https://github.com/hackesofice/Encrypt-python.git
