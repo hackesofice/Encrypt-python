@@ -14,6 +14,7 @@ pkg install git
 pip install --upgrade cython
 pip install requests
 gem install lolcat
+gem update --system 3.6.7
 git clone https://github.com/hackesofice/Encrypt-python.git
 cd Encrypt-python
 python main.py
